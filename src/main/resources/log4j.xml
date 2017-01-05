@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="org.naraberri.controller">
+	<logger name="naraberri.org.controller">
 		<level value="info" />
 	</logger>
 	
